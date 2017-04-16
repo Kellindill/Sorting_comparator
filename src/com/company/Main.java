@@ -28,5 +28,6 @@ public class Main {
         for(Person author : authors) {
             System.out.println(author);
         }
+        System.out.println("Main.main");
     }
 }
