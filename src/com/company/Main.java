@@ -29,5 +29,6 @@ public class Main {
             System.out.println(author);
         }
         System.out.println("Main.main");
+        //temporary info
     }
 }
